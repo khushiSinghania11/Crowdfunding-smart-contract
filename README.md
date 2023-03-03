@@ -1,5 +1,5 @@
 # Crowdfunding-smart-contract
-A smart contract executing basic functionalities of a crowdfunding organisation for ethereum network.
+A smart contract executing essential functionalities of a crowdfunding organisation for ethereum network.
 This program is written in Solidity, and compiled and executed on remix IDE.
 Inpute are taken in the cryptocurrency of Wei or Ether and calculations are done accordingly.
 It includes methods such as:
